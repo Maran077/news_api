@@ -11,11 +11,11 @@ This project is a News API built with Node.js that scrapes news from various cat
 ## Usage
 Use the following endpoints to get news from different categories:
 
-GET /anime
-GET /movie
-GET /series
-GET /games
-GET /comic
+GET /anime,
+GET /movie,
+GET /series,
+GET /games,
+GET /comic.
 Each endpoint will return a list of news articles in JSON format, including headline, description, image, and source.
 
 ## Dependencies
